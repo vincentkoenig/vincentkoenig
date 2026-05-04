@@ -1,6 +1,6 @@
 # Hey, I'm Vincent König 👋
 
-**Aspiring Software Engineer** · Python & Web · Learning by building
+**Aspiring Software Engineer** · Python & Web · Career changer from finance & sales
 
 ---
 
@@ -18,31 +18,30 @@
 
 ### 👨‍💻 About me
 
-I'm actively upskilling as a software engineer, building projects to develop real-world skills.  
-My focus is on **Python** and **web development** — from REST APIs to AI-powered tools.
+After 6+ years in banking, insurance, and sales, I made a deliberate decision to transition into software engineering. I'm currently enrolled at **MSIT – Master School Institute of Technology** and building real projects to develop hands-on skills.
 
-- 🌱 Currently learning: Django, React, deployment
+My background in finance taught me to think analytically, communicate clearly, and understand what software actually needs to solve — skills I now bring to every project I build.
+
+- 🎓 Studying Software Engineering at MSIT (Dec 2025 – Aug 2026)
+- 📜 IBM Full Stack Developer & IBM AI Developer certified
+- 🌱 Currently deepening: Django, React, cloud deployment
 - 🔨 I learn by building — every repo is a step forward
-- 💬 Open to feedback, collaboration, and new opportunities
+- 💬 Open to junior roles, internships, and collaboration
 
 ---
 
-### 🚀 Projects
+### 📜 Certifications
 
-| Project | Description | Stack |
-|---|---|---|
-| [Masterblog API](https://github.com/vincentkoenig/Masterblog-API) | Decoupled REST API blog platform with a separate Flask frontend — full CRUD, CORS, sorting & search | Python · Flask · JavaScript |
-| [Movie Database](https://github.com/vincentkoenig/Movie-Database) | Multi-user CLI app with OMDb API, SQLite, HTML export, fuzzy search & Matplotlib charts | Python · SQLAlchemy · requests |
-| [Wikipedia Knowledge Navigator](https://github.com/vincentkoenig/Wikipedia-Wissensnavigator) | AI-powered tool that summarizes Wikipedia articles and generates quizzes via OpenAI | Python · OpenAI API |
-| [Book Alchemy](https://github.com/vincentkoenig/Book-Alchemy) | Library management app with relational database, search, sorting & auto author cleanup | Python · Flask · SQLAlchemy |
-| [Masterblog](https://github.com/vincentkoenig/Masterblog) | Full-stack blog with Flask — create, edit, delete and like posts, stored in JSON | Python · Flask · HTML/CSS |
-| [ChatbotGPT](https://github.com/vincentkoenig/ChatbotGPT) | Browser-based chatbot interface powered by the GPT-4 API | JavaScript · HTML/CSS |
+- **IBM Full Stack Software Developer** — IBM, Apr 2025
+- **IBM AI Developer** — IBM, Feb 2025  
+- **Google UX Design** — Google, Nov 2025
 
 ---
 
 ### 📬 Get in touch
 
-Feel free to reach out via [GitHub](https://github.com/vincentkoenig) or connect with me on LinkedIn.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-k%C3%B6nig-a917a8193/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vincentkoenig)
 
 ---
 
