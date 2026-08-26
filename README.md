@@ -1,6 +1,6 @@
-# Hey, I'm Vincent König 👋
+# Hey, ich bin Vincent König 👋
 
-**Aspiring Software Engineer** · Python & Web · Career changer from finance & sales
+**Software Engineer & AI Engineer** · Python & Web · Quereinsteiger aus Banking & Vertrieb
 
 ---
 
@@ -12,39 +12,39 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 👨‍💻 About me
+### 👨‍💻 Über mich
 
-After 6+ years in banking, insurance, and sales, I made a deliberate decision to transition into software engineering. I'm currently enrolled at **MSIT – Master School Institute of Technology** (graduating Aug 2026) and building real projects to develop hands-on skills.
+Nach über 6 Jahren in Banking, Versicherung und Vertrieb habe ich eine bewusste Entscheidung getroffen und in die Softwareentwicklung gewechselt. Ich habe meine Weiterbildung zum **Software Engineer mit AI-Engineering-Spezialisierung** am MSIT – Master School Institute of Technology erfolgreich abgeschlossen.
 
-My background in finance taught me to think analytically, communicate clearly, and understand what software actually needs to solve — skills I now bring to every project I build.
+Mein Hintergrund im Finanzbereich hat mir beigebracht, analytisch zu denken, klar zu kommunizieren und zu verstehen, was Software wirklich lösen muss – Fähigkeiten, die ich in jedes meiner Projekte einbringe.
 
-- 🎓 Studying Software Engineering at MSIT (Dec 2025 – Aug 2026)
-- 📜 IBM Full Stack Developer, IBM AI Developer & PCEP certified
-- 🌱 Currently learning: Java, Spring Boot, cloud deployment
-- 🔨 I learn by building — every repo is a step forward
-- 💬 Open to junior roles, internships, and collaboration
+Mein größtes Projekt ist **FinanceAdvisor** – eine KI-gestützte Portfolio-Management-App mit OpenAI Function Calling, Pydantic Structured Output, Live-Preisen für Aktien, Krypto und Edelmetalle sowie einem persönlichen KI-Finanzberater im Chat.
+
+- 🎓 Weiterbildung Software Engineering & AI Engineering am MSIT – abgeschlossen Aug. 2026
+- 📜 PCEP, IBM Full Stack Developer, IBM AI Developer
+- 🔨 Ich lerne durch Bauen – jedes Repo ist ein Schritt nach vorne
+- 💼 Offen für Stellen im Bereich AI Engineering, Software Engineering & Software Testing
 
 ---
 
-### 📜 Certifications
+### 📜 Zertifikate
 
 - **PCEP – Certified Entry-Level Python Programmer** — Python Institute, 2026
-- **IBM Full Stack Software Developer** — IBM, Apr 2025
-- **IBM AI Developer** — IBM, Feb 2025
-- **Google UX Design** — Google, Nov 2025
+- **IBM Full Stack Software Developer** — IBM, Apr. 2025
+- **IBM AI Developer** — IBM, Feb. 2025
+- **Google UX Design** — Google, Nov. 2025
 
 ---
 
-### 📬 Get in touch
+### 📬 Kontakt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincentkoenig97/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vincentkoenig)
 
 ---
 
-*"Learning in public — one commit at a time."*
+*„Man lernt öffentlich – ein Commit nach dem anderen."*
